@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+    <item android:id="@+id/menu1"
+        android:title="김진우"
+        app:showAsAction="always" />
+    <item android:id="@+id/menu2"
+        android:title="이 사진은 제주도에서 찍은 사진입니다."
+        app:showAsAction="always" />
+    <item android:id="@+id/menu3"
+        android:title="제주도에 여행 갔던 기억이 너무 좋아서 "
+        app:showAsAction="always" />
+    <item android:id="@+id/menu4"
+        android:title="사진을 올려놓았습니다 "
+        app:showAsAction="always" />
+    <item android:id="@+id/menu5"
+        android:title="좋아하는 취미 "
+        app:showAsAction="always" />
+
+</menu>

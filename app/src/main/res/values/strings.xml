@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">20182382 김진우 자기소개</string>
+    <string name="title">저는 누굴까요?\n알아보러 가볼까요</string>
+    <string name="me">안녕하세요\n저는 산업ict기술공학과 김진우입니다\n주로 즐겨하는 코딩은 Front-end입니다.\n 자세히 알아볼까요?</string>
+    <string name="drawer_opened">Opened Drawer</string>
+    <string name="drawer_closed">Closed Drawer</string>
+</resources>
